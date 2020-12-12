@@ -1,6 +1,7 @@
-teste git
 arquivo versao inicial
 
 alteracao 1
 
 alteracao 2
+
+alteração 3 e linha 1 excluida
