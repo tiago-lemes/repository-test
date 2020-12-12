@@ -1,0 +1,4 @@
+teste git
+arquivo versao inicial
+
+alteracao 1
