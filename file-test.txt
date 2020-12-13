@@ -5,3 +5,5 @@ alteracao 1
 alteracao 2
 
 alteração 3 e linha 1 excluida
+
+Alteração local  - teste para envio no repositorio remoto
